@@ -1,0 +1,23 @@
+table {
+
+    border-collapse: collapse  ;
+width: 100%;
+font-family:"inter",sans-serif ;
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;padding: 8px;
+}
+thead, th{
+    background-color: rgb(19, 19, 37);
+    color: azure;
+}
+
+tr{
+    background-color: rgb(104, 147, 212);
+}
+
+caption{
+margin-bottom: 12px;
+}
+
